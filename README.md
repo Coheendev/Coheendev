@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou em busca da tão sonhada vaga de estágio ...
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando Java
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
